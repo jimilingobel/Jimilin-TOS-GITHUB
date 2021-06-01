@@ -1,6 +1,10 @@
 Daftar Tugas TOS
 -Pemrograman SHell 1
+  ^Batas pengumpulan 1 minggu
 -Pemrograman Shell 2
+  ^Batas pengumpulan 1 minggu
 -Pemrograman Shell 3
+  ^Batas pengumpulan 1 minggu
 -pemrograman Shell 4
+   ^Batas Pengumpulan 1 minggu
 -Github
