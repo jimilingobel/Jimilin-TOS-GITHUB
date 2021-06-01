@@ -1,6 +1,10 @@
 Daftar Tugas TOS
 -Pemrograman SHell 1
+  ^Batas pengumpulan sabtu pukul 10.00
 -Pemrograman Shell 2
+  ^Batas pengumpulan selasa pukul 10.00
+  ^Dilarang copy paste
+  ^Akan di cek plagiat dan kesamaan
 -Pemrograman Shell 3
 -pemrograman Shell 4
 -Github
