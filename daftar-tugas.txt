@@ -6,5 +6,7 @@ Daftar Tugas TOS
   ^Dilarang copy paste
   ^Akan di cek plagiat dan kesamaan
 -Pemrograman Shell 3
+  ^Batas pengumpulan 1 minggu
 -pemrograman Shell 4
+   ^Batas Pengumpulan 1 minggu
 -Github
